@@ -1,6 +1,6 @@
 import streamlit as st
 from deep_translator import GoogleTranslator
-import gspread
+# import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 
 # Use creds to create a client to interact with the Google Drive API
